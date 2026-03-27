@@ -1,10 +1,10 @@
-# 👋 Olá, sou Gonçalo Floro
+# Olá, sou Gonçalo Floro
 
 Estudante de **Engenharia Informática** na Universidade de Aveiro (2023-2026), apaixonado por desenvolvimento de jogos, música e tecnologia.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 | Categoria          | Tecnologias |
 |--------------------|-------------|
@@ -18,14 +18,14 @@ Estudante de **Engenharia Informática** na Universidade de Aveiro (2023-2026), 
 
 ---
 
-## 📌 Meu Portfólio
+## Meu Portfólio
 
 Acesse todos os meus projetos acadêmicos, de jogos e criativos em:  
-👉 **[goncalo-floro/portfolio](https://github.com/goncalo-floro/portfolio)**
+**[goncalo-floro/portfolio](https://github.com/goncalo-floro/portfolio)**
 
 ---
 
-## 📫 Contato
+## Contato
 
 - **Email:** goncalo9125@gmail.com  
 - **Email institucional:** goncalofloro@ua.pt  
