@@ -14,7 +14,7 @@ Estudante de **Engenharia Informática** na Universidade de Aveiro (2023-2026), 
 | **Game Dev**       | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white) |
 | **Arte & Design**  | ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=flat&logo=krita&logoColor=white) |
 | **Banco de Dados** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
-| **Ferramentas**    | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| **Ferramentas**    | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![MuseScore](https://img.shields.io/badge/MuseScore-1C69B4?style=flat&logo=musescore&logoColor=white)|
 
 ---
 
