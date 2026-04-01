@@ -29,7 +29,7 @@ Acesse todos os meus projetos acadêmicos, de jogos e criativos em:
 
 - **Email:** goncalo9125@gmail.com  
 - **Email institucional:** goncalofloro@ua.pt  
-- **GitHub:** [goncalo-floro](https://github.com/goncalo-floro)
+- **GitHub:** [goncalo-floro](https://github.com/goncalo-floro) & [goncalofloro](https://github.com/goncalofloro)
 
 ---
 
