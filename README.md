@@ -20,7 +20,7 @@ Estudante de **Engenharia Informática** na Universidade de Aveiro (2023-2026), 
 
 ## Meu Portfólio
 
-Acesse todos os meus projetos acadêmicos, de jogos e criativos em:  
+Acede a todos os meus projetos acadêmicos, de jogos e criativos em:  
 **[goncalo-floro/portfolio](https://github.com/goncalo-floro/portfolio)**
 
 ---
